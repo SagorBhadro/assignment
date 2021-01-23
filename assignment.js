@@ -1,3 +1,7 @@
+// https://github.com/SagorBhadro/assignment
+
+
+
 function kilometerToMeter(kilometer) {
     var meter = kilometer * 1000;
     return meter;
@@ -5,6 +9,12 @@ function kilometerToMeter(kilometer) {
 
 var result = kilometerToMeter(5);
 console.log(result);
+
+
+
+
+
+
 
 
 function budgetCalculator(watch, mobile, laptop) {
@@ -16,6 +26,8 @@ function budgetCalculator(watch, mobile, laptop) {
 }
 var result = budgetCalculator(4, 5, 6);
 console.log(result);
+
+
 
 
 function hotelCost(day) {
